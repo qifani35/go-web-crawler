@@ -1,0 +1,11 @@
+# Binary
+crawler
+*.exe
+*.out
+*.test
+
+# OS
+.DS_Store
+
+# Go
+coverage.txt
